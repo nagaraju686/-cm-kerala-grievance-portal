@@ -1,0 +1,14 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #222;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button {
+  font-family: inherit;
+}
